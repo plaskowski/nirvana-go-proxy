@@ -118,3 +118,4 @@ It’s harmless. But you can block it by:
 ## 🙏 Credits
 
 Inspired by the need to use NirvanaHQ with multiple accounts without relying on profiles, extensions, or incognito workarounds.
+The web agent session that helped me build the solution - https://chatgpt.com/g/g-p-6887350c12dc819199b46261a6eaba69-personal/c/6891d814-70d4-832a-88f2-7b34713f4cc7
